@@ -6,7 +6,7 @@ Game and Software Engineer
 
 I am 28 years old and love to explore new possibilities with software development. I have been programming for almost 10 years. I started relatively late and studied Computer Science, with a focus on Systems programming at University of Glasgow. I graduated with a 1st class degree. I then worked or a short time after university before wanting to branch my skills into game development. <br>
 <br>
-I then graduated from Abertay University with a merit masters degree in Professional Game Development. Since 2022 after graduating, I have been working at a small studio, working in UE 4.27. Throughout my game development journey I have always had a project that I have been working towards in my own time. Exploring new ideas and learning are some of the ways I like to spend my precious free time.
+I then graduated from Abertay University with a merit masters degree in Professional Game Development. Since 2021, after graduating, I have been working at a small studio, using UE 4.27. Throughout my game development journey I have always had a project that I have been working towards in my own time. These projects have predominantly used Unity, so I am well-versed in swapping between both Unity and UE. Exploring new ideas and learning are some of the ways I like to spend my precious free time.
 
 *   🌍  I'm based in Scotland
 *   🖥️  See my portfolio at [James Mushahwar](http://jamesmushahwar.wixsite.com/mysite)
